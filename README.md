@@ -49,9 +49,9 @@ A interface gráfica no Node-RED exibe os valores dos sensores de forma dinâmic
   - Node-RED para visualização e controle via interface gráfica
 
 ## Membros Grupo
-RM 560721
-RM 560440
-RM 560131
+RM 560721 Erick Nascimento
+RM 560440 Davi Daparé 
+RM 560131 Guilherme Leite
 
 
 
